@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github-readme-stats.vercel.app/api?username=ahsanf&show_icons=true&theme=algolia
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahsanf&count_private=true&show_icons=true&theme=algolia)
+
