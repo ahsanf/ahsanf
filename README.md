@@ -1,7 +1,7 @@
 # Hey There! 👋
 **I'm Ahsan** - Backend dev who loves building fintech, AI, and web platforms. I work a lot with TypeScript, Java, PHP, and Go, and I enjoy hacking on side projects to make tech more useful and fun.
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,java,go,php,laravel,spring,express,mysql,postgresql,mongodb,docker,firebase)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,java,go,php,laravel,spring,express,mysql,postgresql,mongodb,docker,firebase,rabbitmq,gcp,aws,azure)](https://skillicons.dev)<br/>
 
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/701303697207984219?simple=true)
